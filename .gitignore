@@ -1,0 +1,3 @@
+/files/*
+!files/example.txt
+!files/example.txt.desc

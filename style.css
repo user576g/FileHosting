@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid purple;
+}
+
+form {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.like-red-button {
+    background-color: lightcoral;
+    padding: 10px;
+    display: inline-block;
+    color: black;
+}
+
+.like-red-button:hover {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
